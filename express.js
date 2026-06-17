@@ -15,7 +15,7 @@ app.get("/rain",(req,res)=>{
 })
 
 app.listen(8000,()=>{
-    console.log("successfully completed");
+    console.log("successfully completed");   //this is a command............
     
 })
 
